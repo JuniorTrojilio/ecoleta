@@ -1,5 +1,5 @@
 import knex from 'knex';
-import './src/utils/config';
+import '../utils/config';
 
 const connection = knex({
     client: 'pg',
