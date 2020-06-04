@@ -8,3 +8,4 @@ logs
 **/*.back.*
 
 bower_components
+.env
