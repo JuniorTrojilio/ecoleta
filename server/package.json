@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --transpileOnly --ignore-watch node_modules src/server.ts",
-    "knex:migrate" : "knex --knexfile ./knexfile.ts migrate:latest --env",
+    "knex:migrate": "knex --knexfile ./knexfile.ts migrate:latest --env",
     "knex:rollback": "knex migrate:rollback",
-    "knex:seed" : "knex --knexfile ./knexfile.ts seed:run --env"
+    "knex:seed": "knex --knexfile ./knexfile.ts seed:run --env"
   },
   "keywords": [],
   "author": "",
