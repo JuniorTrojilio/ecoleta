@@ -3,7 +3,7 @@ import '../utils/config';
 
 const connection = knex({
     client: 'pg',
-    connection: process.env.HOST,
+    connection: process.env.DATAURL,
   });
 
   export default connection;

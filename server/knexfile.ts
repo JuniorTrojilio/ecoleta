@@ -3,7 +3,7 @@ import './src/utils/config';
 
 module.exports = {
     client: 'pg',
-    connection: process.env.HOST,
+    connection: process.env.DATAURL,
     migrations : {
         directory: path.resolve(__dirname,'src', 'database', 'migrations')
     },
