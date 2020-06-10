@@ -95,6 +95,6 @@ npm start
 
 ---
 
-Caso tenha interesse em contribuir com este repositório ainsa não desenvolvi o app mobile, aceitaria um pull requeste seu 😄
+Caso tenha interesse em contribuir com este repositório ainda não desenvolvi o app mobile, aceitaria um pull requeste seu 😄
 
 <p align="center">< > with 💙 by <a href="https://github.com/JuniorTrojilio">Junior Trojilio</a></p>
