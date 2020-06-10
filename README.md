@@ -31,8 +31,8 @@ App Ecoleta, criado durante o evento Next Level Week busca facilitar através da
 <img src="https://user-images.githubusercontent.com/39541807/84273542-2c060680-ab05-11ea-8e40-10aa6fa7d577.png">
 <img src="https://user-images.githubusercontent.com/39541807/84273622-450eb780-ab05-11ea-86ca-1e2fdee02a27.png">
  
- ---
- ## Executando o App em sua maquina
+
+## Executando o App em sua maquina
  
 ### Requisitos:
 
